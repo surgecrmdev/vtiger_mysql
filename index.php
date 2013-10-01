@@ -16,7 +16,7 @@
  * $Header: /advent/projects/wesat/vtiger_crm/sugarcrm/index.php,v 1.93 2005/04/21 16:17:25 ray Exp $
  * Description: Main file and starting point for the application.  Calls the 
  * theme header and footer files defined for the user as well as the module as 
- * defined by the input parameters.
+ * defined by the input parameters.test
  ********************************************************************************/
 
 global $entityDel;
